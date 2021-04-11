@@ -20,15 +20,15 @@
 }
 
 .google-opt{
-    width: 40px;
-    height: 40px;
+    width: 30px;
+    height: 30px;
     clip-path: circle();
     padding: 10px;
     background-color: rgb(223, 223, 223);
 }
 .google-opt > img{
-    width: 30px;
-    height: 30px;
+    width: 20px;
+    height: 20px;
     padding: 5px;
     background-position: center;
     background-repeat: no-repeat;
@@ -140,6 +140,9 @@ input{
     }
     .input{
         width: 100%;
+    }
+    .google-nav{
+        right: 10px;
     }
 }
 
